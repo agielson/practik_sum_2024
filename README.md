@@ -1,10 +1,10 @@
-# it is my practik from Saint Petersburg
+# practik from SPB
 
 ## With regex on C++
 
 
 ```
-my future code
+Валидация и выборка с регулярками 
 
 ```
 
